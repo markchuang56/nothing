@@ -6,12 +6,33 @@
 
 ###### This is an <h6> tag
 ###### 小標題字
+```Java
+public static void main(String[]args){} // Java
+```
+
+```C
+int main(int argc, char *argv[]) // C
+```
+
+```Bash
+echo "hello GitHub" #Bash
+```
+
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; // javascript
+```
+
+```cpp
+string &operator+{const string& A, const string& B) // cpp
+```
 
 >資料結構
 >>樹
 >>>二叉樹
 >>>>平衡二叉樹
->>>>>滿二叉樹<br><br>
+>>>>>滿二叉樹
+
+<br><br>
 這是一段普通的文字，
 直接回車不能換行，<br>
 要使用\<br>
