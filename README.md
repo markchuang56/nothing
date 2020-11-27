@@ -16,11 +16,12 @@ Hello, 大家好，我是 平鍋仁
 	很高興見到您 
 	祝您，早上好，中午好，晚安!!
 
-\<br>
-Thank `You`, Please `Call` Me `PEMGOLIN`\<br>
+<br>
+Thank `You`, Please `Call` Me `PEMGOLIN`
+<br>
 
 ### 文字超連結
-[我的部落格] (http://blog,csdn.net/guodongxiaren)
+[我的部落格] (http://blog.csdn.net/guodongxiaren)
 
 這是一個圓點符\<br>
 這也是一個圓點符\<br>
