@@ -1,0 +1,8 @@
+.DS_Store
+
+*.d
+*.o
+*.dia
+
+log/*.log
+*.txt
